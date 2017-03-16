@@ -64,7 +64,7 @@ Word Embeddings
 ====
 
  - [Word2Vec]()
- - [GloVe]()
+ - [GloVe](https://nlp.stanford.edu/projects/glove/)
  - [COMPOSE]()
  - [Polyglot]()
  - [FastText]()
@@ -123,6 +123,15 @@ Others
  - Author Attribution
     - [Java Graphical Authorship Attribution Program](https://github.com/evllabs/JGAAP)
 
+ - Orthography
+    - [Gecco](https://github.com/proycon/gecco): Generic Environment for Context-Aware Correction of Orthography
+    - [Charguana](https://github.com/alvations/charguana): Character Vomitting for CJK Unicode
+    
+    
+ - NLP API / Workflow
+   - [CLAM](https://proycon.github.io/clam): Turn command-line applications into RESTful webservices with web front-end.
+   - [LuigiNLP](https://github.com/languagemachines/luiginlp): Experimental NLP Pipeline system built on top of SciLuigi, 
+
 
 NLP Related Machine Learning Tools
 ====
@@ -139,7 +148,7 @@ List of Lists of NLP Resources/Tools
  - [OpenSource Deep QA Resources](https://docs.google.com/document/d/1XCHWQkgFBS8Iy_y9-1-R82jGS8T_CrKiMxleqpqtmJg/edit?usp=sharing) (also [nice talk](https://www.slideshare.net/jackpark/jst-talk-final))
  - [Neural Machine Translation Implementations](https://bitbucket.org/hy-crossNLP/neuralmt/wiki/Tools)
  - @jonsafari [A list of Neural MT implementations](https://github.com/jonsafari/nmt-list)
-
+ - @proycon [La Machine](https://proycon.github.io/LaMachine/)
 
 
 
