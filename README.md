@@ -5,4 +5,38 @@
 
 
 
+Twitter
+====
+
+
+
+- [Affective Tweets](http://github.com/felipebravom/AffectiveTweets)
+
+
+Machine Translation
+====
+
+ - Neural MT
+   - [OpenNMT]()
+   - [Google Seq2Seq]()
+   
+ - Phrased-based MT
+   - [Moses MT]()
+ 
+ - Rule-based MT
+   - [Apertium MT]()
+ 
+ - Example-based MT
+ 
+ - MT-related tools
+ 
+ - MT List of lists
+   - [Friends of Moses]()
+   - [Let’s MT]()
+  
+
+
+
+
+
 
