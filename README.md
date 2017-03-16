@@ -27,6 +27,7 @@ Text NLP Suites
  - [Freeling]()
  - [OpenNLP]()
  - [DKPro](https://dkpro.github.io/dkpro-core/)
+ - [IXA Pipes](http://ixa2.si.ehu.es/ixa-pipes/)
  - [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp)
  - [Stanbol NLP](https://stanbol.apache.org/docs/trunk/components/enhancer/nlp/)
  - [LIMA](http://aymara.github.io/lima/)
@@ -46,15 +47,16 @@ Language Specific Text NLP Suites
 
 Tokenization / Stemming / POS Tagging
 ====
-
  - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
 
 Twitter
 ====
-
-
-
 - [Affective Tweets](http://github.com/felipebravom/AffectiveTweets)
+
+
+Word Embeddings
+====
+
 
 
 Machine Translation
@@ -81,24 +83,40 @@ Machine Translation
    - [Friends of Moses](http://www.statmt.org/moses/?n=Moses.ExternalTools)
    - [Let’s MT](http://opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools)
   
+
+Language Modelling
+====
+
+ - [SRILM]()
+ - [IRSTLM]()
+ - [KenLM]()
+ - [NPLM]()
+ - [RNNLM]()
   
 Annotation Related
 ====
 
  - Annotation Platforms
-  - [Brat](http://brat.nlplab.org)
-  - [PyBossa](http://pybossa.com)
+   - [Brat](http://brat.nlplab.org)
+   - [PyBossa](http://pybossa.com)
  
  - Annotation Toools
    - [TableAnnotator](https://github.com/nikolamilosevic86/TableAnnotator) and [TabInOut](https://github.com/nikolamilosevic86/TabInOut)
    - [Marvin](https://github.com/nikolamilosevic86/Marvin): Semantic text annotation tools using Wordnet and DBPedia 
+
+Others
+====
+ 
+ - Author Attribution
+    - [Java Graphical Authorship Attribution Program](https://github.com/evllabs/JGAAP)
 
 List of Lists of NLP Resources/Tools
 ====
 
  - [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
  - [OpenSource Deep QA Resources](https://docs.google.com/document/d/1XCHWQkgFBS8Iy_y9-1-R82jGS8T_CrKiMxleqpqtmJg/edit?usp=sharing) (also [nice talk](https://www.slideshare.net/jackpark/jst-talk-final))
- -
+ - [Neural Machine Translation Implementations](https://bitbucket.org/hy-crossNLP/neuralmt/wiki/Tools)
+ - @jonsafari [A list of Neural MT implementations](https://github.com/jonsafari/nmt-list)
 
 
 
