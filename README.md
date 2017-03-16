@@ -27,6 +27,7 @@ Text NLP Suites
  - [Freeling]()
  - [OpenNLP]()
  - [DKPro](https://dkpro.github.io/dkpro-core/)
+ - [PyNLPl](https://github.com/proycon/pynlpl/)
  - [IXA Pipes](http://ixa2.si.ehu.es/ixa-pipes/)
  - [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp)
  - [Stanbol NLP](https://stanbol.apache.org/docs/trunk/components/enhancer/nlp/)
@@ -43,10 +44,15 @@ Language Specific Text NLP Suites
  
  - Arabic
    - [SAFAR](http://arabic.emi.ac.ma/safar/)
+   
+ - Dutch
+   - [Frog](https://languagemachines.github.io/frog)
  
 
-Tokenization / Stemming / POS Tagging
+Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
 ====
+
+ - [Colibri Core](https://proycon.github.io/colibri-core) - C++ and Python tools for n-grams and skipgrams
  - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
 
 Twitter
@@ -57,7 +63,11 @@ Twitter
 Word Embeddings
 ====
 
-
+ - [Word2Vec]()
+ - [GloVe]()
+ - [COMPOSE]()
+ - [Polyglot]()
+ - [FastText]()
 
 Machine Translation
 ====
@@ -99,6 +109,9 @@ Annotation Related
  - Annotation Platforms
    - [Brat](http://brat.nlplab.org)
    - [PyBossa](http://pybossa.com)
+   - [FoLiA](https://github.com/proycon/flat/)
+   - [Ucto](https://languagemachines.github.io/ucto)
+   
  
  - Annotation Toools
    - [TableAnnotator](https://github.com/nikolamilosevic86/TableAnnotator) and [TabInOut](https://github.com/nikolamilosevic86/TabInOut)
@@ -109,6 +122,13 @@ Others
  
  - Author Attribution
     - [Java Graphical Authorship Attribution Program](https://github.com/evllabs/JGAAP)
+
+
+NLP Related Machine Learning Tools
+====
+
+ - [Timbl](https://languagemachines.github.io/timbl) - Memory-based machine learning 
+ 
 
 List of Lists of NLP Resources/Tools
 ====
