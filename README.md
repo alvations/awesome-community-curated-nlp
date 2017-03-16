@@ -21,10 +21,10 @@ Text NLP Suites
 ====
 
  - [DKPro](https://dkpro.github.io/dkpro-core/)
- - [CogComp's NLP libraries]()
- - [Stanbol NLP]()
- - [LIMA]()
-
+ - [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp)
+ - [Stanbol NLP](https://stanbol.apache.org/docs/trunk/components/enhancer/nlp/)
+ - [LIMA](http://aymara.github.io/lima/)
+ - [Corpus.Tools](http://corpus.tools)
 
 
 Twitter
@@ -43,7 +43,10 @@ Machine Translation
    - [Google Seq2Seq](https://github.com/google/seq2seq)
    
  - Phrased-based MT
-   - [Moses MT]()
+   - [Moses MT]((http://www.statmt.org/moses)
+   - [Joshua]()
+   - [Jane]()
+   - [Phrasal]()
  
  - Rule-based MT
    - [Apertium MT](http://wiki.apertium.org/wiki/Apertium)
@@ -56,6 +59,17 @@ Machine Translation
    - [Friends of Moses](http://www.statmt.org/moses/?n=Moses.ExternalTools)
    - [Let’s MT](http://opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools)
   
+  
+Annotation Related
+====
+
+ - Annotation Platforms
+  - Brat
+  - PyBossa
+ 
+ - Annotation Toools
+   - [TableAnnotator](https://github.com/nikolamilosevic86/TableAnnotator) and [TabInOut](https://github.com/nikolamilosevic86/TabInOut)
+   -
 
 List of Lists of NLP Resources/Tools
 ====
