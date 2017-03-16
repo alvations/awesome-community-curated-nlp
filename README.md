@@ -47,6 +47,9 @@ Language Specific Text NLP Suites
    
  - Dutch
    - [Frog](https://languagemachines.github.io/frog)
+   
+ - Italian
+   - [Tint](http://tint.fbk.eu)
  
 
 Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
@@ -55,10 +58,19 @@ Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
  - [Colibri Core](https://proycon.github.io/colibri-core) - C++ and Python tools for n-grams and skipgrams
  - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
 
-Twitter
+Deep Linguistic Processing
 ====
-- [Affective Tweets](http://github.com/felipebravom/AffectiveTweets)
 
+The *deep* here isn't *"deep learing"* deep ;P , see https://en.wikipedia.org/wiki/Deep_linguistic_processing
+
+ - Head-drive Phrase Structure Grammar (HPSG)
+   - [DELPH-IN](http://www.delph-in.net/wiki/index.php/Home): Deep Linguistic Processing with HPSG 
+   - [English Resource Grammar](http://moin.delph-in.net/ErsTutorial)
+   
+ - (CCG)
+   - [CCG2PST](https://github.com/jkkummerfeld/berkeley-ccg2pst) : A tool for converting CCG derivations into PTB-style phrase structure trees
+   
+ 
 
 Word Embeddings
 ====
@@ -68,6 +80,34 @@ Word Embeddings
  - [COMPOSE]()
  - [Polyglot]()
  - [FastText]()
+
+
+Twitter
+====
+- [PyTweet](https://github.com/Reflejo/pytweet)
+- [Twitter4J](http://twitter4j.org/en/)
+- [Affective Tweets](http://github.com/felipebravom/AffectiveTweets)
+
+
+Task Specific
+====
+
+ - Entity Linking / Relation Extraction
+   - [KNEWS](https://github.com/valeriobasile/learningbyreading): Knowledge Extraction With Semantics
+   - [Deep Dive](http://deepdive.stanford.edu/relation_extraction): Relation Extraction
+   
+   
+ - Coreference
+   - [Berkley Coreference Error Analyser](https://github.com/jkkummerfeld/berkeley-coreference-analyser) - A tool for classifying errors in coreference resolution
+
+ 
+ - Parsing
+   - [Berkley Parse Error Analyser](https://github.com/jkkummerfeld/berkeley-parser-analyser): A tool for classifying mistakes in the output of parsers
+   
+ 
+
+
+
 
 Machine Translation
 ====
@@ -130,13 +170,18 @@ Others
     
  - NLP API / Workflow
    - [CLAM](https://proycon.github.io/clam): Turn command-line applications into RESTful webservices with web front-end.
-   - [LuigiNLP](https://github.com/languagemachines/luiginlp): Experimental NLP Pipeline system built on top of SciLuigi, 
+   - [LuigiNLP](https://github.com/languagemachines/luiginlp): Experimental NLP Pipeline system built on top of SciLuigi
+   - [TextFlows](http://textflows.org) / [ClowdFlows](http://clowdflows.org/existing-workflows/)
+   
+ - Misc
+  - [Vinci generative environment](http://research.cs.queensu.ca/CompLing/)
 
 
 NLP Related Machine Learning Tools
 ====
 
  - [Timbl](https://languagemachines.github.io/timbl) - Memory-based machine learning 
+ - [KeLP](http://sag.art.uniroma2.it/demo-software/kelp/): Kernel-based Learning Platform
  
 
 List of Lists of NLP Resources/Tools
@@ -151,5 +196,13 @@ List of Lists of NLP Resources/Tools
  - @proycon [La Machine](https://proycon.github.io/LaMachine/)
 
 
+See Also
+====
 
+ - [Corpora List](http://mailman.uib.no//public/corpora/): Your source of all thing computational linguistics / NLP / corpora 
+ - [LT World](http://www.lt-world.org)
+ - [META Net](http://www.meta-net.eu) 
+ - [LDC](https://www.ldc.upenn.edu/): Linguistic Data Consortium
+ - [OLAC](http://www.language-archives.org): Open Language Archives Community
+ - [NLSR](http://registry.dfki.de): Natural Language Software Registry
 
