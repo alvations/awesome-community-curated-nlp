@@ -20,12 +20,12 @@ Speech NLP
 Text NLP Suites
 ====
 
- - [NLTK]()
- - [Gensim]()
- - [SpaCy]()
- - [Stanford CoreNLP]()
- - [Freeling]()
- - [OpenNLP]()
+ - [NLTK](https://github.com/nltk/nltk)
+ - [Gensim](https://radimrehurek.com/gensim/)
+ - [SpaCy](https://spacy.io)
+ - [Stanford CoreNLP](http://stanfordnlp.github.io/CoreNLP/)
+ - [Freeling](http://nlp.cs.upc.edu/freeling/)
+ - [OpenNLP](https://opennlp.apache.org)
  - [DKPro](https://dkpro.github.io/dkpro-core/)
  - [PyNLPl](https://github.com/proycon/pynlpl/)
  - [IXA Pipes](http://ixa2.si.ehu.es/ixa-pipes/)
@@ -55,8 +55,13 @@ Language Specific Text NLP Suites
 Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
 ====
 
- - [Colibri Core](https://proycon.github.io/colibri-core) - C++ and Python tools for n-grams and skipgrams
- - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
+ - Ngrams
+   - [Colibri Core](https://proycon.github.io/colibri-core) - C++ and Python tools for n-grams and skipgrams
+ 
+ 
+ - Stemming
+   - [Whoosh Stemmers]()
+   - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
 
 Deep Linguistic Processing
 ====
@@ -67,7 +72,7 @@ The *deep* here isn't *"deep learing"* deep ;P , see https://en.wikipedia.org/wi
    - [DELPH-IN](http://www.delph-in.net/wiki/index.php/Home): Deep Linguistic Processing with HPSG 
    - [English Resource Grammar](http://moin.delph-in.net/ErsTutorial)
    
- - (CCG)
+ - Combinatory Categorial Grammar (CCG)
    - [CCG2PST](https://github.com/jkkummerfeld/berkeley-ccg2pst) : A tool for converting CCG derivations into PTB-style phrase structure trees
    
  
@@ -75,11 +80,11 @@ The *deep* here isn't *"deep learing"* deep ;P , see https://en.wikipedia.org/wi
 Word Embeddings
 ====
 
- - [Word2Vec]()
+ - [Word2Vec](https://code.google.com/archive/p/word2vec/)
  - [GloVe](https://nlp.stanford.edu/projects/glove/)
- - [COMPOSE]()
- - [Polyglot]()
- - [FastText]()
+ - [COMPOSE](http://clic.cimec.unitn.it/composes/semantic-vectors.html)
+ - [Polyglot](http://polyglot.readthedocs.io/en/latest/)
+ - [FastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
 
 
 Twitter
@@ -103,10 +108,7 @@ Task Specific
  
  - Parsing
    - [Berkley Parse Error Analyser](https://github.com/jkkummerfeld/berkeley-parser-analyser): A tool for classifying mistakes in the output of parsers
-   
  
-
-
 
 
 Machine Translation
@@ -137,11 +139,12 @@ Machine Translation
 Language Modelling
 ====
 
- - [SRILM]()
- - [IRSTLM]()
- - [KenLM]()
- - [NPLM]()
- - [RNNLM]()
+ - [SRILM](http://www.speech.sri.com/projects/srilm/)
+ - [IRSTLM](http://hlt-mt.fbk.eu/technologies/irstlm)
+ - [KenLM](https://kheafield.com/code/kenlm/)
+ - [NPLM](http://nlg.isi.edu/software/nplm/)
+ - Mikolov's [RNNLM](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
+ - Yandex [Fast-RNNLM](https://github.com/yandex/faster-rnnlm)
   
 Annotation Related
 ====
