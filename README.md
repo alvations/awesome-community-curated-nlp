@@ -75,7 +75,7 @@ Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
  
  
  - Stemming
-   - [Whoosh Stemmers]()
+   - [Whoosh Stemmers](https://bitbucket.org/mchaput/whoosh/wiki/Home)
    - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
 
 Deep Linguistic Processing
@@ -100,7 +100,6 @@ Word Embeddings
  - [COMPOSE](http://clic.cimec.unitn.it/composes/semantic-vectors.html)
  - [Polyglot](http://polyglot.readthedocs.io/en/latest/)
  - [FastText](https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md)
-
 
 Twitter
 ====
@@ -131,7 +130,9 @@ Machine Translation
 
  - Neural MT
    - [OpenNMT](http://opennmt.net/)
+   - [Amunmt](https://github.com/amunmt/amunmt)
    - [Google Seq2Seq](https://github.com/google/seq2seq)
+   - [Eske Seq2seq](https://github.com/eske/seq2seq)
    
  - Phrased-based MT
    - [Moses MT](http://www.statmt.org/moses)
