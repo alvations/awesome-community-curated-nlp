@@ -9,13 +9,28 @@ Speech NLP
 ====
 
  - Automatic Speech Recognition (Speech-to-Text)
+   - [Kaldi](http://kaldi-asr.org)
+   - [CMU Sphinx](http://cmusphinx.sourceforge.net)
+   - [Julius](http://julius.osdn.jp/en_index.php)
+   - [RWTH ASR](http://www-i6.informatik.rwth-aachen.de/rwth-asr/)
  
  - Speech Synthesis (Text-to-Speech)
- 
+   - [Merlin](http://www.cstr.ed.ac.uk/projects/merlin/)
+   - [Festival](http://www.cstr.ed.ac.uk/projects/festival/)
+   - [HTS](http://hts.sp.nitech.ac.jp)
+   - [eSpeak](http://espeak.sourceforge.net)
+   - [Covarep](https://github.com/covarep/covarep)
+   - [Free TTS](http://freetts.sourceforge.net/docs/index.php)
+   - [Ekho](https://sites.google.com/site/readtextextension/home/announcements/ekho)
+
  - Generic Speech Analysis/Modelling Tools
+   - [Hidden Markov Model Toolkit](http://htk.eng.cam.ac.uk)
+   - [Praat](http://www.fon.hum.uva.nl/praat/)
  
-
-
+ - List of Lists of Speech tools
+   - https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers 
+   - https://en.wikipedia.org/wiki/List_of_speech_recognition_software 
+ 
 
 Text NLP Suites
 ====
@@ -128,7 +143,8 @@ Machine Translation
    - [Apertium MT](http://wiki.apertium.org/wiki/Apertium)
  
  - Example-based MT
- 
+   - [Kyoto EBMT](http://nlp.ist.i.kyoto-u.ac.jp/EN/index.php?KyotoEBMT)
+   
  - MT-related tools
  
  - MT List of lists
