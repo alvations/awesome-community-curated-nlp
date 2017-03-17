@@ -193,7 +193,7 @@ Others
    - [TextFlows](http://textflows.org) / [ClowdFlows](http://clowdflows.org/existing-workflows/)
    
  - Misc
-  - [Vinci generative environment](http://research.cs.queensu.ca/CompLing/)
+   - [Vinci generative environment](http://research.cs.queensu.ca/CompLing/)
 
 
 NLP Related Machine Learning Tools
@@ -219,8 +219,8 @@ See Also
 ====
 
  - [Corpora List](http://mailman.uib.no//public/corpora/): Your source of all thing computational linguistics / NLP / corpora 
- - [LT World](http://www.lt-world.org)
- - [META Net](http://www.meta-net.eu) 
+ - [LT World](http://www.lt-world.org): Language Technology World
+ - [META Net](http://www.meta-net.eu)
  - [LDC](https://www.ldc.upenn.edu/): Linguistic Data Consortium
  - [OLAC](http://www.language-archives.org): Open Language Archives Community
  - [NLSR](http://registry.dfki.de): Natural Language Software Registry
