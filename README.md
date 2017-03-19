@@ -49,6 +49,7 @@ Text NLP Suites
  - [LIMA](http://aymara.github.io/lima/)
  - [Corpus.Tools](http://corpus.tools)
  - [NooJ](http://www.nooj4nlp.net)
+ - [SALAT](http://www.kristopherkyle.com/tools.html)
 
 
 Language Specific Text NLP Suites
