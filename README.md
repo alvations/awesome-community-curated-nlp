@@ -78,6 +78,9 @@ Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
  - Stemming
    - [Whoosh Stemmers](https://bitbucket.org/mchaput/whoosh/wiki/Home)
    - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
+   
+ - Tokenizers
+   - - [Ucto](https://languagemachines.github.io/ucto)
 
 Deep Linguistic Processing
 ====
@@ -170,8 +173,8 @@ Annotation Related
  - Annotation Platforms
    - [Brat](http://brat.nlplab.org)
    - [PyBossa](http://pybossa.com)
-   - [FoLiA](https://github.com/proycon/flat/)
-   - [Ucto](https://languagemachines.github.io/ucto)
+   - [FLAT](https://github.com/proycon/flat/): FoLiA Linguistic Annotation Tool
+   
    
  
  - Annotation Toools
