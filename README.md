@@ -44,6 +44,7 @@ Text NLP Suites
  - [DKPro](https://dkpro.github.io/dkpro-core/)
  - [PyNLPl](https://github.com/proycon/pynlpl/)
  - [IXA Pipes](http://ixa2.si.ehu.es/ixa-pipes/)
+ - [NLP4J](https://emorynlp.github.io/nlp4j/)
  - [CogComp's NLP libraries](https://github.com/CogComp/cogcomp-nlp)
  - [Stanbol NLP](https://stanbol.apache.org/docs/trunk/components/enhancer/nlp/)
  - [LIMA](http://aymara.github.io/lima/)
@@ -112,6 +113,7 @@ Word Embeddings
 
 Twitter
 ====
+
 - [PyTweet](https://github.com/Reflejo/pytweet)
 - [Twitter4J](http://twitter4j.org/en/)
 - [Affective Tweets](http://github.com/felipebravom/AffectiveTweets)
@@ -160,6 +162,9 @@ Machine Translation
  - MT List of lists
    - [Friends of Moses](http://www.statmt.org/moses/?n=Moses.ExternalTools)
    - [Let’s MT](http://opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools)
+   - [Neural Machine Translation Implementations](https://bitbucket.org/hy-crossNLP/neuralmt/wiki/Tools)
+   - @jonsafari [A list of Neural MT implementations](https://github.com/jonsafari/nmt-list)
+
   
 
 Language Modelling
@@ -176,12 +181,10 @@ Annotation Related
 ====
 
  - Annotation Platforms
-   - [Brat](http://brat.nlplab.org)
-   - [PyBossa](http://pybossa.com)
+   - [Brat Rapid Annotation Tool](http://brat.nlplab.org): Online environment for collaborative text annotation
+   - [PyBossa](http://pybossa.com): The ultimate crowdsourcing framework
    - [FLAT](https://github.com/proycon/flat/): FoLiA Linguistic Annotation Tool
    
-   
- 
  - Annotation Toools
    - [TableAnnotator](https://github.com/nikolamilosevic86/TableAnnotator) and [TabInOut](https://github.com/nikolamilosevic86/TabInOut)
    - [Marvin](https://github.com/nikolamilosevic86/Marvin): Semantic text annotation tools using Wordnet and DBPedia 
@@ -221,10 +224,8 @@ List of Lists of NLP Resources/Tools
  - [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
  - [OpenSource Deep QA Resources](https://docs.google.com/document/d/1XCHWQkgFBS8Iy_y9-1-R82jGS8T_CrKiMxleqpqtmJg/edit?usp=sharing) (also [nice talk](https://www.slideshare.net/jackpark/jst-talk-final))
  - [Sibawayh Repository for Arabic NLP](http://www.sibawayh-nlp.org)
- - [Neural Machine Translation Implementations](https://bitbucket.org/hy-crossNLP/neuralmt/wiki/Tools)
- - @jonsafari [A list of Neural MT implementations](https://github.com/jonsafari/nmt-list)
  - @proycon [La Machine](https://proycon.github.io/LaMachine/)
- 
+ - [Ruby NLP Resources/Tools]https://github.com/diasks2/ruby-nlp)
 
 
 See Also
