@@ -55,18 +55,23 @@ Text NLP Suites
 Language Specific Text NLP Suites
 ====
 
- - Persian
-   - [Hazm](https://github.com/sobhe/hazm)
- 
  - Arabic
    - [SAFAR](http://arabic.emi.ac.ma/safar/)
    
+ - Chinese
+   - [SnowNLP](https://github.com/isnowfy/snownlp)
+   
+ - Persian
+   - [Hazm](https://github.com/sobhe/hazm)
+ 
  - Dutch
    - [Frog](https://languagemachines.github.io/frog)
    
  - Italian
    - [Tint](http://tint.fbk.eu)
  
+ - Korean
+   - [KoNLPy](http://konlpy.org)
 
 Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
 ====
