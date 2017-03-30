@@ -229,7 +229,7 @@ List of Lists of NLP Resources/Tools
  - [OpenSource Deep QA Resources](https://docs.google.com/document/d/1XCHWQkgFBS8Iy_y9-1-R82jGS8T_CrKiMxleqpqtmJg/edit?usp=sharing) (also [nice talk](https://www.slideshare.net/jackpark/jst-talk-final))
  - [Sibawayh Repository for Arabic NLP](http://www.sibawayh-nlp.org)
  - @proycon [La Machine](https://proycon.github.io/LaMachine/)
- - [Ruby NLP Resources/Tools]https://github.com/diasks2/ruby-nlp)
+ - [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp)
 
 
 See Also
