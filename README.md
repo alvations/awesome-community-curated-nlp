@@ -57,22 +57,22 @@ Language Specific Text NLP Suites
 ====
 
  - Arabic
-   - [SAFAR](http://arabic.emi.ac.ma/safar/)
+   - [SAFAR](http://arabic.emi.ac.ma/safar/): Software Architecture For Arabic language pRocessing
    
  - Chinese
-   - [SnowNLP](https://github.com/isnowfy/snownlp)
+   - [SnowNLP](https://github.com/isnowfy/snownlp): Simplified Chinese Text Processing
    
  - Persian
-   - [Hazm](https://github.com/sobhe/hazm)
+   - [Hazm](https://github.com/sobhe/hazm): Python library for digesting Persian text.
  
  - Dutch
-   - [Frog](https://languagemachines.github.io/frog)
+   - [Frog](https://languagemachines.github.io/frog): An advanced NLP suite for Dutch
    
  - Italian
-   - [Tint](http://tint.fbk.eu)
+   - [Tint](http://tint.fbk.eu): Lend color to your Italian texts!
  
  - Korean
-   - [KoNLPy](http://konlpy.org)
+   - [KoNLPy](http://konlpy.org): Korean NLP in Python
 
 Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
 ====
@@ -82,11 +82,14 @@ Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
  
  
  - Stemming
-   - [Whoosh Stemmers](https://bitbucket.org/mchaput/whoosh/wiki/Home)
+   - [Snowball Stemmers](http://snowball.tartarus.org)
    - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
+   - [Whoosh Stemmers](https://bitbucket.org/mchaput/whoosh/wiki/Home)
    
  - Tokenizers
-   - - [Ucto](https://languagemachines.github.io/ucto)
+   - [Elephant](http://gmb.let.rug.nl/elephant/about.php): Sequence labeling for word and sentence segmentation
+   - [Toktok](https://github.com/jonsafari/tok-tok): A fast, simple, multilingual tokenizer
+   - [Ucto](https://languagemachines.github.io/ucto): An advanced rule-based unicode-aware tokenizer
 
 Deep Linguistic Processing
 ====
@@ -147,9 +150,10 @@ Machine Translation
    
  - Phrased-based MT
    - [Moses MT](http://www.statmt.org/moses)
-   - [Joshua]()
-   - [Jane]()
-   - [Phrasal]()
+   - [Joshua](https://cwiki.apache.org/confluence/display/JOSHUA/Apache+Joshua+%28Incubating%29+Home)
+   - [Jane](http://www-i6.informatik.rwth-aachen.de/jane/)
+   - [Phrasal](https://nlp.stanford.edu/phrasal/)
+   - [Kriya](http://natlang.cs.sfu.ca/software/kriya.html)
  
  - Rule-based MT
    - [Apertium MT](http://wiki.apertium.org/wiki/Apertium)
