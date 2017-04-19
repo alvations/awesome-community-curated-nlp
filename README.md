@@ -1,7 +1,7 @@
 # Awesome Community-Curated NLP List
 
 
-**To contribute**: This list is community curated, anyone can do a pull-request to add to the list. And it will be merged once 5 person have verified that the PR is not spam. 
+**To contribute**: This list is community curated, anyone can do a pull-request to add to the list. And it will be merged once 5 person have verified that the PR is not spam.
 
 
 
@@ -13,7 +13,7 @@ Speech NLP
    - [CMU Sphinx](http://cmusphinx.sourceforge.net)
    - [Julius](http://julius.osdn.jp/en_index.php)
    - [RWTH ASR](http://www-i6.informatik.rwth-aachen.de/rwth-asr/)
- 
+
  - Speech Synthesis (Text-to-Speech)
    - [Merlin](http://www.cstr.ed.ac.uk/projects/merlin/)
    - [Festival](http://www.cstr.ed.ac.uk/projects/festival/)
@@ -26,11 +26,11 @@ Speech NLP
  - Generic Speech Analysis/Modelling Tools
    - [Hidden Markov Model Toolkit](http://htk.eng.cam.ac.uk)
    - [Praat](http://www.fon.hum.uva.nl/praat/)
- 
+
  - List of Lists of Speech tools
-   - https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers 
-   - https://en.wikipedia.org/wiki/List_of_speech_recognition_software 
- 
+   - https://en.wikipedia.org/wiki/Comparison_of_speech_synthesizers
+   - https://en.wikipedia.org/wiki/List_of_speech_recognition_software
+
 
 Text NLP Suites
 ====
@@ -58,19 +58,22 @@ Language Specific Text NLP Suites
 
  - Arabic
    - [SAFAR](http://arabic.emi.ac.ma/safar/): Software Architecture For Arabic language pRocessing
-   
+
+ - Cantonese
+   - [PyCantonese](http://pycantonese.org/): Cantonese Linguistics and NLP in Python
+
  - Chinese
    - [SnowNLP](https://github.com/isnowfy/snownlp): Simplified Chinese Text Processing
-   
+
  - Persian
    - [Hazm](https://github.com/sobhe/hazm): Python library for digesting Persian text.
- 
+
  - Dutch
    - [Frog](https://languagemachines.github.io/frog): An advanced NLP suite for Dutch
-   
+
  - Italian
    - [Tint](http://tint.fbk.eu): Lend color to your Italian texts!
- 
+
  - Korean
    - [KoNLPy](http://konlpy.org): Korean NLP in Python
 
@@ -79,13 +82,13 @@ Pre-processing (Tokenization / Stemming / POS Tagging / etc.)
 
  - Ngrams
    - [Colibri Core](https://proycon.github.io/colibri-core) - C++ and Python tools for n-grams and skipgrams
- 
- 
+
+
  - Stemming
    - [Snowball Stemmers](http://snowball.tartarus.org)
    - [SerbianStemmer](https://github.com/nikolamilosevic86/SerbianStemmer)
    - [Whoosh Stemmers](https://bitbucket.org/mchaput/whoosh/wiki/Home)
-   
+
  - Tokenizers
    - [Elephant](http://gmb.let.rug.nl/elephant/about.php): Sequence labeling for word and sentence segmentation
    - [Toktok](https://github.com/jonsafari/tok-tok): A fast, simple, multilingual tokenizer
@@ -97,13 +100,13 @@ Deep Linguistic Processing
 The *deep* here isn't *"deep learing"* deep ;P , see https://en.wikipedia.org/wiki/Deep_linguistic_processing
 
  - Head-drive Phrase Structure Grammar (HPSG)
-   - [DELPH-IN](http://www.delph-in.net/wiki/index.php/Home): Deep Linguistic Processing with HPSG 
+   - [DELPH-IN](http://www.delph-in.net/wiki/index.php/Home): Deep Linguistic Processing with HPSG
    - [English Resource Grammar](http://moin.delph-in.net/ErsTutorial)
-   
+
  - Combinatory Categorial Grammar (CCG)
    - [CCG2PST](https://github.com/jkkummerfeld/berkeley-ccg2pst) : A tool for converting CCG derivations into PTB-style phrase structure trees
-   
- 
+
+
 
 Word Embeddings
 ====
@@ -128,15 +131,15 @@ Task Specific
  - Entity Linking / Relation Extraction
    - [KNEWS](https://github.com/valeriobasile/learningbyreading): Knowledge Extraction With Semantics
    - [Deep Dive](http://deepdive.stanford.edu/relation_extraction): Relation Extraction
-   
-   
+
+
  - Coreference
    - [Berkley Coreference Error Analyser](https://github.com/jkkummerfeld/berkeley-coreference-analyser) - A tool for classifying errors in coreference resolution
 
- 
+
  - Parsing
    - [Berkley Parse Error Analyser](https://github.com/jkkummerfeld/berkeley-parser-analyser): A tool for classifying mistakes in the output of parsers
- 
+
 
 
 Machine Translation
@@ -147,29 +150,29 @@ Machine Translation
    - [Amunmt](https://github.com/amunmt/amunmt)
    - [Google Seq2Seq](https://github.com/google/seq2seq)
    - [Eske Seq2seq](https://github.com/eske/seq2seq)
-   
+
  - Phrased-based MT
    - [Moses MT](http://www.statmt.org/moses)
    - [Joshua](https://cwiki.apache.org/confluence/display/JOSHUA/Apache+Joshua+%28Incubating%29+Home)
    - [Jane](http://www-i6.informatik.rwth-aachen.de/jane/)
    - [Phrasal](https://nlp.stanford.edu/phrasal/)
    - [Kriya](http://natlang.cs.sfu.ca/software/kriya.html)
- 
+
  - Rule-based MT
    - [Apertium MT](http://wiki.apertium.org/wiki/Apertium)
- 
+
  - Example-based MT
    - [Kyoto EBMT](http://nlp.ist.i.kyoto-u.ac.jp/EN/index.php?KyotoEBMT)
-   
+
  - MT-related tools
- 
+
  - MT List of lists
    - [Friends of Moses](http://www.statmt.org/moses/?n=Moses.ExternalTools)
    - [Let’s MT](http://opus.lingfil.uu.se/letsmt-trac/wiki/DataProcessingTools)
    - [Neural Machine Translation Implementations](https://bitbucket.org/hy-crossNLP/neuralmt/wiki/Tools)
    - @jonsafari [A list of Neural MT implementations](https://github.com/jonsafari/nmt-list)
 
-  
+
 
 Language Modelling
 ====
@@ -180,7 +183,7 @@ Language Modelling
  - [NPLM](http://nlg.isi.edu/software/nplm/)
  - Mikolov's [RNNLM](http://www.fit.vutbr.cz/~imikolov/rnnlm/)
  - Yandex [Fast-RNNLM](https://github.com/yandex/faster-rnnlm)
-  
+
 Annotation Related
 ====
 
@@ -188,27 +191,27 @@ Annotation Related
    - [Brat Rapid Annotation Tool](http://brat.nlplab.org): Online environment for collaborative text annotation
    - [PyBossa](http://pybossa.com): The ultimate crowdsourcing framework
    - [FLAT](https://github.com/proycon/flat/): FoLiA Linguistic Annotation Tool
-   
+
  - Annotation Toools
    - [TableAnnotator](https://github.com/nikolamilosevic86/TableAnnotator) and [TabInOut](https://github.com/nikolamilosevic86/TabInOut)
-   - [Marvin](https://github.com/nikolamilosevic86/Marvin): Semantic text annotation tools using Wordnet and DBPedia 
+   - [Marvin](https://github.com/nikolamilosevic86/Marvin): Semantic text annotation tools using Wordnet and DBPedia
 
 Others
 ====
- 
+
  - Author Attribution
     - [Java Graphical Authorship Attribution Program](https://github.com/evllabs/JGAAP)
 
  - Orthography
     - [Gecco](https://github.com/proycon/gecco): Generic Environment for Context-Aware Correction of Orthography
     - [Charguana](https://github.com/alvations/charguana): Character Vomitting for CJK Unicode
-    
-    
+
+
  - NLP API / Workflow
    - [CLAM](https://proycon.github.io/clam): Turn command-line applications into RESTful webservices with web front-end.
    - [LuigiNLP](https://github.com/languagemachines/luiginlp): Experimental NLP Pipeline system built on top of SciLuigi
    - [TextFlows](http://textflows.org) / [ClowdFlows](http://clowdflows.org/existing-workflows/)
-   
+
  - Misc
    - [Vinci generative environment](http://research.cs.queensu.ca/CompLing/)
 
@@ -216,9 +219,9 @@ Others
 NLP Related Machine Learning Tools
 ====
 
- - [Timbl](https://languagemachines.github.io/timbl) - Memory-based machine learning 
+ - [Timbl](https://languagemachines.github.io/timbl) - Memory-based machine learning
  - [KeLP](http://sag.art.uniroma2.it/demo-software/kelp/): Kernel-based Learning Platform
- 
+
 
 List of Lists of NLP Resources/Tools
 ====
@@ -235,10 +238,9 @@ List of Lists of NLP Resources/Tools
 See Also
 ====
 
- - [Corpora List](http://mailman.uib.no//public/corpora/): Your source of all thing computational linguistics / NLP / corpora 
+ - [Corpora List](http://mailman.uib.no//public/corpora/): Your source of all thing computational linguistics / NLP / corpora
  - [LT World](http://www.lt-world.org): Language Technology World
  - [META Net](http://www.meta-net.eu)
  - [LDC](https://www.ldc.upenn.edu/): Linguistic Data Consortium
  - [OLAC](http://www.language-archives.org): Open Language Archives Community
  - [NLSR](http://registry.dfki.de): Natural Language Software Registry
-
