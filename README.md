@@ -227,6 +227,7 @@ List of Lists of NLP Resources/Tools
 ====
 
  - [Awesome NLP](https://github.com/keon/awesome-nlp) (The original one, curated by @keon and @outpark)
+ - @niderhoff [NLP Dataset](https://github.com/niderhoff/nlp-datasets)
  - [Repo tagged with `nlp` on Github.com](https://github.com/search?q=topic%3Anlp&type=Repositories)
  - [Java or Python for NLP?](http://stackoverflow.com/questions/22904025/java-or-python-for-natural-language-processing)
  - [OpenSource Deep QA Resources](https://docs.google.com/document/d/1XCHWQkgFBS8Iy_y9-1-R82jGS8T_CrKiMxleqpqtmJg/edit?usp=sharing) (also [nice talk](https://www.slideshare.net/jackpark/jst-talk-final))
