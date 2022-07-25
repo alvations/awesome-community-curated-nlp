@@ -233,7 +233,7 @@ List of Lists of NLP Resources/Tools
  - [Sibawayh Repository for Arabic NLP](http://www.sibawayh-nlp.org)
  - @proycon [La Machine](https://proycon.github.io/LaMachine/)
  - [Ruby NLP Resources/Tools](https://github.com/diasks2/ruby-nlp)
- - [Explore NLP]https://kandi.openweaver.com/explore/nlp
+ - [Explore NLP](https://kandi.openweaver.com/explore/nlp)
  
 **Dataset Lists**
 
